@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Chat room made using the Vue composition API. The application uses firebase authentication and cloud storage.
-<img src="chat-room-ui.png" alt="chat-room-ui" width="389" height="auto">
+<img src="chatroom-ui.png" alt="chatroom-ui" width="389" height="auto">
 
 
 ## Getting Started
